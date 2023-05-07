@@ -1,0 +1,11 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/": "pages/index.html",
+  "/photos": "pages/photos.html",
+  "/posts/hellothere": "pages/posts/hellothere.html",
+  "/posts": "pages/posts.html",
+  "/tags/[tag]": "pages/tags/[tag].html",
+  "/404": "pages/404.html"
+}
